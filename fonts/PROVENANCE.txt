@@ -1,0 +1,6 @@
+noto-sans-latin-700-normal.woff2
+  Family:  Noto Sans (Google Fonts, ofl/notosans), weight 700, normal, latin subset
+  Source:  npm @fontsource/noto-sans@5.3.0, files/noto-sans-latin-700-normal.woff2
+           (tarball integrity sha512-fBCog2PY7DiVVTEEqtI/Qdinx/knobHYfoGpjFXdfBX5RoJaBp1Prw2G75p0OIsdlMZg3cLo0c+YbIUYOxnQJw==)
+  sha256:  e77bfe1db912f687b0319b60de158cfada67f89c8ee4f8e2bd6020f970accbfb
+  Licence: SIL Open Font License 1.1, see OFL.txt (the package's LICENSE file)
