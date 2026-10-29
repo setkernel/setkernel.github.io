@@ -26,6 +26,9 @@ There is no workflow and no secrets, so nothing in Infisical.
 
 ## Layout
 - `index.html`: the whole site.
+- `style.css`: the only stylesheet; sets the self-hosted Noto Sans with a `sans-serif` fallback.
+- `fonts/`: the subset `woff2` with its `OFL.txt` and `PROVENANCE.txt`. Fonts follow the org rule
+  (Google Fonts, self-hosted, licence beside every font file, no font CDN, no named system font).
 - `SetKernel.pem`: the Set Kernel Root CA certificate (public, PEM; expires 2037-01-18).
 - `.github/`: CODEOWNERS and the agent issue template.
 
